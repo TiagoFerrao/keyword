@@ -1,3 +1,7 @@
 {
-  "notebooks": {}
+  "notebooks": {
+    "seo_analysis.ipynb": {
+      "slug": "c88be8c394c74b6dbd0b9b7ef46cf2e7"
+    }
+  }
 }
